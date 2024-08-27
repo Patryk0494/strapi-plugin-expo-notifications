@@ -29,7 +29,7 @@ module.exports = () => ({
       } catch (error) {
         console.error(error);
       }
-      return tickets;
     }
+    return tickets;
   },
 });
